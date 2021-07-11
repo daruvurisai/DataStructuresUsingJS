@@ -1,0 +1,25 @@
+Objectives:-
+1)Define what an algorithm is?
+2)Devise a plan to solve algorithm
+3)Compare and contrast problem solving patterns including frequncy counters , two pointer problems and divide and conquer.
+
+1)what is an algorithm?
+A process or set of steps to accomplish a certain task.
+
+2)How do we Improve?
+-->Devise a plan for solving problem.
+-->Master common problem solving patterns
+
+3)Problem solving patterns
+-->Undestand the problem
+-->explore concrete examples
+-->Break it down
+-->Solve/Simplify
+-->Look back and refactor
+
+4)Understanding the problem
+-->Can i restate the problemin my own words
+-->what are the inputs that go into the problem
+-->What are the outputs that shoud come from the solution to the problem
+-->Can be outputs be determined from the inputs?In other words do i have the ebough informatiion to solve the problem?
+-->How shoud i label the important pieces of data that are part of a problem.
